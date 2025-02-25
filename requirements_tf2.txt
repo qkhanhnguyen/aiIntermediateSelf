@@ -1,0 +1,9 @@
+jupyter==1.1.1
+jupyterlab==3.6.8
+keras==2.11.0
+matplotlib==3.5.3
+mnist==0.2.2
+numpy==1.21.6
+protobuf==3.9.2
+scikit-learn==1.0.2
+tensorflow==2.11.0
